@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ember0520&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ember0520&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ember0520&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Ember0520/Ember0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
