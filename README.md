@@ -3,7 +3,7 @@
  
 - 🌱 I’m currently learning algorithm.
 - ⚡ My blog: [Ember0520](https://ember0520.github.io).
-- 📫 You can reach me by email: 2398457365@qq.com.
+- 📫 You can reach me by email: ember0520@qq.com.
 - 💬 Please feel free to contact me.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ember0520&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
