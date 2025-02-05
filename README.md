@@ -1,6 +1,6 @@
 ### 👋 Hi!
  
-- 🌱 I’m currently learning LEO routing.
+- 🌱 I’m currently learning satellite routing.
 - ⚡ My blog: [Ember0520](https://ember0520.github.io).
 - 📫 You can reach me by email: ember0520@qq.com/ember0520@163.com.
 - 💬 Please feel free to contact me.
